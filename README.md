@@ -1,1 +1,1 @@
-Discussion around key themes, hypotheses or research questions related to C language.
+Discuss key themes, hypotheses or research questions.
