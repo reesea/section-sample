@@ -1,2 +1,8 @@
+# Building a GTK program:
+
+sudo apt-get install libgtk2.0-dev
+
 gcc command line to build GTK program:
 gcc gtktest.c -o gtktest `pkg-config --cflags --libs gtk+-3.0`
+
+
